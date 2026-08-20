@@ -1,0 +1,43 @@
+---
+title: "Week 4: How Experiments Work"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - How Experiments Work
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, September 14
+
+- *DASS.* Chapter 2: pp. 27-38. {{< fa book >}}
+
+- Kellstedt and Whitten, Chapter 3. {{< fa brands dropbox >}}
+
+- Read the abstract: Burge, Camille D., Julian J. Wamble, and Rachel R. Cuomo. 2020. "A Certain Type of Descriptive Representative? Understanding How the Skin Tone and Gender of Candidates Influences Black Politics." *The Journal of Politics* 82(4): 1596–1601. {{< fa brands dropbox >}}
+
+- Recorded lecture #4 {{< fa brands youtube >}} (link to be added)
+
+
+
+### Wednesday, September 16
+
+- *DASS.* Chapter 2: pp. 39-50. {{< fa book >}}
+
+- Kellstedt and Whitten, Chapter 4: section 4.1 and 4.2. {{< fa brands dropbox >}}
+
+- Recorded lecture #5 {{< fa brands youtube >}} (link to be added)
+
+
+### Friday, September 18
+
+:::{.callout-note}
+
+[Problem Set 1](/assignment/pset1.qmd) (based on material covered in lecture #4) to be completed in class
+
+:::
+
+ 

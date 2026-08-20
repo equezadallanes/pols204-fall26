@@ -1,0 +1,48 @@
+---
+title: "Week 3: R 101 and Data Structure"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - R 101 and Data Structure
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, September 7
+
+- Install R before class. Follow [this guide](../resource/r.qmd) and upload the PDF you produce at the end.
+
+- *DASS.* Chapter 1: pp. 7-14. {{< fa book >}}
+
+- Recorded lecture #1 {{< fa brands youtube >}} (link to be added)
+
+
+### Wednesday, September 9
+
+- *DASS.* Chapter 1: pp. 14-26. {{< fa book >}}
+
+- Kellstedt and Whitten, Chapter 6, pp. 125-130. {{< fa brands dropbox >}}
+
+- Recorded lecture #2 {{< fa brands youtube >}} (link to be added)
+
+
+### Friday, September 11
+
+- Download the [2024 American National Election Study (ANES) dataset](https://electionstudies.org/data-center/2024-time-series-study/).
+
+- Kellstedt and Whitten, Chapter 6, pp. 130-142. {{< fa brands dropbox >}}
+
+- Recorded lecture #3 {{< fa brands youtube >}} (link to be added)
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Research question for final project](/assignment/research-project1.qmd) due Friday, September 11, at 11:59 pm on Canvas
+
+:::
+

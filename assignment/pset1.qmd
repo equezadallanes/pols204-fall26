@@ -1,0 +1,42 @@
+---
+title: "Problem Set 1"
+---
+
+:::{.callout-important}
+
+To be completed in class September 18. Submit on Canvas.
+
+:::
+
+
+Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+
+### Files
+
+1. Problem Set - PDF
+2. RMardown file
+
+
+## Purpose
+
+This first problem set will help you practice:
+
+1. Setting the working directory
+2. Loading data into R
+3. Viewing and understanding observations from the dataset
+4. Identifying the type of variables you are working with
+5. Computing and interpreting the mean of a variable
+6. Identifying treatment and outcome variables in a dataset
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+

@@ -1,0 +1,32 @@
+---
+title: "Problem Set 7"
+---
+
+:::{.callout-important}
+To be completed in class November 20. Submit on Canvas.
+:::
+
+
+Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+### Files
+
+1. Problem Set - PDF
+2. RMardown file
+
+
+## Purpose
+
+This problem set will help you asses your knowledge about:
+
+1. Hypothesis testing
+2. P-values
+3. Using linear regression to estimate causal effects
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing

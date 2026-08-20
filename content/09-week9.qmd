@@ -1,0 +1,42 @@
+---
+title: "Week 9: Qualitative Approaches"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 9 - Qualitative Approaches
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+### Monday, October 19
+
+- Gerring, John. 2017. "Qualitative Methods." *Annual Review of Political Science* 20(1): 15–36. {{< fa brands dropbox >}}
+
+- Leech, Beth. 2002. "Asking Questions: Techniques for Semistructured Interviews." *PS: Political Science & Politics* 35(4), 665-668. {{< fa brands dropbox >}}
+
+
+### Wednesday, October 21
+
+- Malik, Aditi. 2021. "Hindu–Muslim Violence in Unexpected Places: Theory and Evidence from Rural India." *Politics, Groups, and Identities* 9(1): 40–58. {{< fa brands dropbox >}}
+
+
+
+### Friday, October 23
+
+- Greenberg, Jack B. 2024. "The Case for Agency: Three Dimensions of Discretion in Presidential Agenda Construction." *Presidential Studies Quarterly* 54(3): 290–309. {{< fa brands dropbox >}}
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Research project: Literature Review and Expectations](/assignment/research-project2.qmd) due Friday, October 23, at 11:59 pm on Canvas
+
+:::
+
+ 

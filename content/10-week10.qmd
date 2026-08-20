@@ -1,0 +1,37 @@
+---
+title: "Week 10: Making Predictions with Linear Regression"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 10 - Making Predictions with Linear Regression
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, October 26
+
+- *DASS.* Chapter 4, sections 4.1-4.3. {{< fa book >}}
+
+- Recorded lecture #8 {{< fa brands youtube >}} (link to be added)
+
+### Wednesday, October 28
+
+- *DASS.* Chapter 4, sections 4.4-4.7. {{< fa book >}}
+
+- Recorded lecture #9 {{< fa brands youtube >}} (link to be added)
+
+### Friday, October 30
+
+:::{.callout-note}
+
+[Problem Set 4](/assignment/pset4.qmd) (based on material covered in lectures #8 and #9) to be completed in class
+
+:::
+
+
+

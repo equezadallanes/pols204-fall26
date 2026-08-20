@@ -1,0 +1,39 @@
+---
+title: "Week 13: Probability"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - Probability
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 16
+
+- *DASS.* Chapter 6, sections 6.5-6.6. {{< fa book >}}
+
+- Recorded lecture #14 {{< fa brands youtube >}} (link to be added).
+
+
+### Wednesday, November 18
+
+- *DASS.* Chapter 7: section 7.3. {{< fa book >}}
+
+- Kellstedt and Whitten, Section 8.3. {{< fa brands dropbox >}}
+
+- Recorded lecture #15 {{< fa brands youtube >}} (link to be added).
+
+
+### Friday, November 20
+
+:::{.callout-note}
+
+[Extra Credit Problem Set](/assignment/pset-extra.qmd) to be completed in class
+
+:::
+

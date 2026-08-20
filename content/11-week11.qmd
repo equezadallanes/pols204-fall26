@@ -1,0 +1,34 @@
+---
+title: "Week 11: Observational Studies"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - Observational Studies
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 2
+
+- *DASS.* Chapter 5, sections 5.1-5.4. {{< fa book >}}
+
+- Recorded lecture #10 {{< fa brands youtube >}} (link to be added)
+
+
+### Wednesday, November 4
+
+- Recorded lecture #11 {{< fa brands youtube >}} (link to be added)
+
+
+### Friday, November 6
+
+:::{.callout-note}
+
+[Problem Set 5](/assignment/pset5.qmd) (based on material covered in lectures #10 and #11) to be completed in class
+
+:::

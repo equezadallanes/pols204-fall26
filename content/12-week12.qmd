@@ -1,0 +1,40 @@
+---
+title: "Week 12: Validity and Probability"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Probability
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 9
+
+- *DASS.* Chapter 5, sections 5.5-5.6. {{< fa book >}}
+
+- Recorded lecture #12 {{< fa brands youtube >}} (link to be added)
+
+### Wednesday, November 11
+
+- *DASS.* Chapter 6, sections 6.1-6.4. {{< fa book >}}
+
+- Recorded lecture #13 {{< fa brands youtube >}} (link to be added)
+
+
+
+### Friday, November 13
+
+:::{.callout-note}
+
+[Problem Set 6](/assignment/pset6.qmd) (based on material covered in lecture #12) to be completed in class
+
+:::
+
+
+
+
+ 

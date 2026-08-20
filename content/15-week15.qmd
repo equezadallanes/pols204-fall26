@@ -1,0 +1,47 @@
+---
+title: "Week 15: Peer-Review and Final Research Paper"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 15 - Peer-Review and Final Research Paper
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 30
+
+:::{.callout-important}
+
+### Deadline
+
+[Draft of research paper due for peer review](/assignment/research-project3.qmd) due at the beginning of class. Submit on Canvas and bring a hard copy.
+
+:::
+
+### Wednesday, December 2
+
+- No assigned reading. We will be working on your projects.
+
+
+### Friday, December 4
+
+- No assigned reading. We will be working on your projects.
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Final draft of research paper due](/assignment/research-project4.qmd) due Friday, December 4, at 11:59 pm on Canvas
+
+:::
+
+
+
+
+

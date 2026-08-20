@@ -1,0 +1,37 @@
+---
+title: "Problem Set 5"
+---
+
+:::{.callout-important}
+To be completed in class November 6. Submit on Canvas.
+:::
+
+
+Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
+
+### Files
+
+1. Problem Set - PDF
+2. RMardown file
+
+
+
+## Purpose
+
+This fourth problem set will help you practice:
+
+1. Understanding the components of a linear regression model
+2. Running a linear regression model in R
+3. Interpreting the output of the lm() function
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+

@@ -1,0 +1,35 @@
+---
+title: "Week 5: Literature Reviews and Data Measurement"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - Literature Reviews and Data Measurement
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+### Monday, September 21
+
+- Kellstedt and Whitten, Chapter 5. {{< fa brands dropbox >}}
+
+
+### Wednesday, September 23
+
+- Baglione, Lisa. 2020. *Writing a Research Paper in Political Science: A Practical Guide to Inquiry, Structure, and Methods, 4th edition*. Chapter 4. {{< fa brands dropbox >}}
+
+- Kellstedt and Whitten, Chapter 2: section 2.6. {{< fa brands dropbox >}}
+
+- [Writing a literature review in political science](https://guides.library.ucsc.edu/write-a-literature-review)
+
+
+### Friday, September 25
+
+:::{.callout-note}
+
+[Problem Set 2](/assignment/pset2.qmd) (based on material covered in lecture #5) to be completed in class.
+
+:::
+

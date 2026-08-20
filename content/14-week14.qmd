@@ -1,0 +1,28 @@
+---
+title: "Week 14: Dealing with Uncertainty"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 14 - Dealing with Uncertainty
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 23
+
+- *DASS.* Chapter 7: section 7.2. {{< fa book >}}
+
+- Recorded lecture #16 {{< fa brands youtube >}} (link to be added). 
+
+
+### Wednesday and Friday, April 22 and 24
+
+- NO CLASS. Thanksgiving Break.
+
+
+

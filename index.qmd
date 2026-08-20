@@ -1,0 +1,282 @@
+---
+title: "POLS 204: Performing Research in Political Science"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 12pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      output-file: "POLS204_syllabus"
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tibble)
+library(pander)
+```
+
+::: {.content-visible when-format="pdf"}
+
+\begin{center}
+
+\vspace{-5em}
+
+\url{ {{< var course.url >}} } \vspace{-1ex}
+
+{{< var course.time >}} {{< var course.days >}} \vspace{-1ex}
+
+{{< var course.location >}} \vspace{-1ex}
+
+{{< var course.semester >}}
+
+\end{center}
+
+
+## Instructor
+
+{{< var instructor.name >}} \vspace{-1ex}
+
+Email: [{{< var instructor.email >}}](mailto:{{< var instructor.email >}}) \vspace{-1ex}
+
+Office: {{< var instructor.office >}} \vspace{-1ex}
+
+Office hours: [M 12:30-2:20 pm, W 3:30-5:30 pm, and (via Zoom) Th 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+
+:::
+
+
+::: {.content-visible when-format="html"}
+
+::: {.grid .course-details .course-details-smaller}
+
+::: {.g-col-6}
+### Course details
+
+- {{< fa calendar >}} &nbsp; {{< var course.days >}}
+- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
+- {{< fa clock >}} &nbsp; {{< var course.time >}}
+- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+:::
+
+::: {.g-col-6}
+### Instructor
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
+- {{< fa university >}} &nbsp; Office hours: [WF 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+:::
+
+:::
+
+
+
+# Syllabus
+
+You can download a PDF version of the syllabus with the weekly schedule here.
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Syllabus </span></p>](POLS204_syllabus.pdf)
+
+
+
+:::
+
+
+## Course Overview
+
+This course provides students with an introduction to quantitative and qualitative political science research that is necessary for original research on political and policy issues. The course focuses on three things: the development and analysis of political science research, the application of quantitative analysis, and an understanding of qualitative approaches such as interviewing and archival research. The course emphasizes hands-on training that will provide students useful skills for academic and professional setting, including an introduction to statistical software, measurement and introductory statistical analysis, the presentation of data, and strong writing. No prior data analysis or statistics background is necessary.
+
+
+## Learning Outcomes
+
+- Understand and assess empirical research in political science
+- Estimate and interpret the appropriate quantities of interest to answer political science questions
+- Develop research questions and identify appropriate research designs to test derived hypotheses 
+- Practice communicating results from data analysis
+- Understand and explain fundamental concepts of statistical inference and the advantages and limitations of quantitative methods
+
+
+## Work and Assessment
+
+
+### Required Materials:
+
+- Llaudet, Elena and Kosuke Imai. 2022. [Data Analysis for Social Science: A Friendly and Practical Introduction](https://press.princeton.edu/books/paperback/9780691199436/data-analysis-for-social-science). United States: Princeton University Press. {{< fa book >}}
+- A computer (Mac, Windows or Linux, preferably). If you are using a Chromebook or iPad, please let me know as soon as possible.
+- Dropbox folder with readings and datasets {{< fa brands dropbox >}} (link on Canvas; please download)
+
+
+
+### Course Expectations
+
+I expect students to attend class and participate in class discussions and exercises. I also expect students to complete all the readings and watched assigned lectures prior to class, and come prepared with any questions you may have.
+
+### Course Workload
+
+As a course with a course count of one, you are expected to spend 8-10 hours of work each week (not including our three 50-minute weekly course meetings).
+
+
+### Assignments and grades
+
+Final course grades will be assigned as follows:
+
+```{r grades, include=FALSE}
+grading <- tribble(
+  ~Grade, ~Range, ~Grade1, ~Range1,
+  "A",  "94–100%", "C",  "74–76%",
+  "A−", "90–93%", "C−", "70–73%",
+  "B+", "87–89%", "D+", "67–69%",
+  "B",  "84–86%", "D",  "64–66%",
+  "B−", "80–83%", "D−", "60–63%",
+  "C+", "77–79%", "F",  "< 60%"
+)
+```
+
+<div class="centered-table">
+
+```{r show-grades-table, echo=FALSE, results="asis"}
+grading %>%
+  pandoc.table(justify = "lclc",
+               col.names = c("Grade", "Range", "Grade", "Range"))
+```
+
+<div>
+
+
+Final grades will be calculated based on the following components:
+
+**Participation (10%)**: All students are expected to be active participants in the class. Our learning experience will be enhanced if you come prepared and ready to engage with the material and asks questions. If you are confused about something, you are likely not the only one.
+
+While attendance is a pre-requisite to participation, it is not all of it. If you attend every class but do not participate, expect to get only half of the points. It is up to you to increase this participation grade to get full points. You will earn participation points through in-class activities.
+
+To accommodate unforeseeable circumstances, you have two *unexcused* absences in the semester that will not affect your participation grade. Please let the instructor know about any excused absences you anticipate during the semester. (Absences due to extenuating circumstances will be considered separately. Please refer to the [College's Class Attendance Policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext-otp2) for the college-wide policy on absences and be in communication if a situation that will keep you from attending class for an extended period of time arises.)
+
+
+**Problem Sets (30%)**: You will complete seven (7) problem sets throughout the semester. These problem sets will help you practice the concepts and data analysis skills we learn in class. Problem sets will be completed during class time on selected Fridays. I will drop the problem set with the lowest grade.
+
+
+**Research Paper (30% total)**: You will write an empirical research paper (6-8 pages, double-spaced) similar to the ones political scientists publish in academic journals. For this assignment, you will develop a research question, write a literature review, find data to test a hypothesis, and report your results. The paper will be broken down into the following parts that you will submit throughout the semester:
+
+  1. Research Question (5% of final grade)
+  2. Literature Review and Expectations (2-3 pages, 5% of final grade)
+  4. Draft of full paper for peer review (12-minutes, 5% of final grade)
+  3. Final draft of paper (6-8 pages, 15% of final grade)
+
+
+
+**Midterm and Final Exam (15% each)**: The midterm and final exam will be similar in structure to the weekly problem sets and will be completed in-person. You are allowed to use all your notes and other resources. Per course policy, use of any AI tools is strictly prohibited (see below).
+
+
+
+## Communication Policy
+
+If you have questions about class in general or about a specific assignment, you can email me or come by my office. You can expect a response within 24 hours (unless you email me on Friday). Students are also more than welcome to attend office hours, as this is time set aside specifically for you. In addition, if my office door is open, feel free to stop by. Please note that I will not be "pre-grading" assignments, but I am happy to answer clarifying questions about them either via email or, preferably, during office hours.
+
+
+## Technology Policy
+
+To avoid distractions, cellphones are prohibited in class and must remain in your pocket or backpack. While most in-class activities will require you to use your laptop, these must remain closed until it is indicated you can open them. You are allowed to take notes on a tablet so long as the device is lying flat on your desk. If you require an exception to this policy, please see me during the first week of class to discuss an alternative.
+
+
+## Regrading Policy
+
+If a student wishes to appeal a grade, they must do so in writing within one week of receiving their graded assignment back. The student must indicate clearly what part of the assignment's grading they disagree with, making sure to respond to the instructor's comments in that section and making their case for why they should not have been deducted points. These requests should be done via email and the subject name should read "POLS 204 Regrading request - [Name of assignment]." 
+
+
+## Academic Integrity and Generative AI Policy
+
+All education is a cooperative enterprise between faculty and students. This cooperation requires trust and mutual respect, which are only possible in an environment governed by the principles of academic integrity. As an institution devoted to teaching, learning, and intellectual inquiry, Holy Cross expects all members of the College community to abide by the highest standards of academic integrity. Any violation of academic integrity undermines the student-faculty relationship, thereby wounding the whole community. Students in this class are required to read the full text of the [College’s Academic Integrity Policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext) and to abide by its standards.
+
+Unless otherwise noted, you are expected to complete all coursework independently without the use of generative AI tools (e.g., ChatGPT, Claude, Gemini). Because this course emphasizes learning basic programming skills, using AI tools at this stage runs counter to our goals. Because the assumption in this course is that all code students submit is original to them, cases where students turn in AI-generated content will be considered cheating.
+
+Instead of relying on AI tools, I encourage you to use forums like Stack Overflow. If you are unsure about how make your code do what you want or do not know how to fix code that won't run, chances are someone has asked a similar question in Stack Overflow and you can repurpose the code people share there. While an increasing amount of code is written by AI, you are here to learn how to write some code. Don't cheat yourself out of this opportunity to learn.
+
+
+
+
+## Course Accessibility and Academic Accommodations
+
+
+The College of the Holy Cross is committed ["to providing students with disabilities equal access to the educational opportunities and programs available at Holy Cross in accordance with the Americans with Disabilities Act of 1990 as amended, Section 504 of the Rehabilitation Act of 1973, and Massachusetts laws."](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext)
+
+Any student who feels the need for accommodation based on the impact of a disability should contact the [Office of Accessibility Services](https://www.holycross.edu/community/health-wellness/accessibility-accommodations) to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations.
+
+The office can be reached by calling 508-793-3693. If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to your instructors in a timely fashion. Instructors need at least 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
+
+
+
+## Wellbeing and Mental Health
+
+The wellbeing and mental health of students is important. If you are having trouble managing your coursework and are experiencing unusual amounts of stress, sadness, or anxiety, the College has resources you may find useful. Please reach out to [Student Wellness Education](https://www.holycross.edu/community/health-wellness/student-wellness-education) or the office of [Counseling and Psychological Services](https://www.holycross.edu/community/health-wellness/counseling-psychological-services).
+
+
+## Title IX
+
+If you have experienced any form of sexual harassment or violence, dating or domestic violence, or stalking, please talk to any faculty or staff member with whom you feel comfortable. Faculty and staff members want to support you and have been trained to help. They will also inform the Title IX office so that you learn about options available to you. If you do not want college administrators to know what you have experienced, you may speak to a chaplain or counseling services with complete confidentiality. They will not tell anyone what you share with them unless you give your express permission. You may contact the Title IX Office directly at <titleix@holycross.edu>.
+
+
+## Chosen Names and Personal Pronouns
+ 
+Everyone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don't make assumptions based on your name and/or appearance/self-presentation. If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not however, tolerate repeated comments which disrespect or antagonize students who have indicated pronouns or a chosen name.
+
+
+## Center for Writing and Writer's Workshop
+
+The Center for Writing offers one-on-one appointments with trained peer consultants trough their Writer's Workshop who can help you improve your communication skills. You are encouraged to use this resource when working on your class assignments to make your arguments more compelling, your sentences clearer, and persistent grammatical errors nonexistent. You can schedule an appointment at <https://holycross.mywconline.com/>.
+
+
+
+## Recording of Classes
+
+Please note that, consistent with applicable federal and state law, this course may be video/audio recorded as an accommodation *only* with permission from the Office of Accessibility Services. Students are not permitted to record the contents of this class under any other circumstances.
+
+
+
+## Syllabus Change Policy
+
+This syllabus is only a guide for the course and is subject to change with advanced notice.
+
+
+::: {.content-visible when-format="pdf"}
+  
+## Schedule
+
+{{< include content/01-week1.qmd >}}
+
+{{< include content/02-week2.qmd >}}
+
+{{< include content/03-week3.qmd >}}
+
+{{< include content/04-week4.qmd >}}
+
+{{< include content/05-week5.qmd >}}
+
+{{< include content/06-week6.qmd >}}
+
+{{< include content/07-week7.qmd >}}
+
+{{< include content/08-week8.qmd >}}
+
+{{< include content/09-week9.qmd >}}
+
+{{< include content/10-week10.qmd >}}
+
+{{< include content/11-week11.qmd >}}
+
+{{< include content/12-week12.qmd >}}
+
+{{< include content/13-week13.qmd >}}
+
+{{< include content/14-week14.qmd >}}
+
+{{< include content/15-week15.qmd >}}
+
+{{< include content/16-week16.qmd >}}
+
+:::
+
+{{< include index_title.qmd >}}
