@@ -68,7 +68,7 @@ Office hours: [M 12:30-2:20 pm, W 3:30-5:30 pm, and (via Zoom) Th 1:00-3:00 pm](
 - {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
 - {{< fa university >}} &nbsp; {{< var instructor.office >}}
 - {{< fa envelope >}} &nbsp; [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
-- {{< fa university >}} &nbsp; Office hours: [WF 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+- {{< fa university >}} &nbsp; Office hours: [M 12:30-2:20 pm, W 3:30-5:30 pm, and (via Zoom) Th 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
 :::
 
 :::
