@@ -17,7 +17,7 @@ title: "Week 3: R 101 and Data Structure"
 
 - *DASS.* Chapter 1: pp. 7-14. {{< fa book >}}
 
-- Recorded lecture #1 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #1 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=k_WJeU6P8i4&list=PLKV2BNfMO2cU)
 
 
 ### Wednesday, September 9
