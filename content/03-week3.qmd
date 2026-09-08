@@ -35,7 +35,7 @@ title: "Week 3: R 101 and Data Structure"
 
 - Kellstedt and Whitten, Chapter 6, pp. 130-142. {{< fa brands dropbox >}}
 
-- Recorded lecture #3 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #3 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=szBsVymaLco)
 
 
 :::{.callout-important}
