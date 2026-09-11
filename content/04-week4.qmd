@@ -19,7 +19,7 @@ title: "Week 4: How Experiments Work"
 
 - Read the abstract: Burge, Camille D., Julian J. Wamble, and Rachel R. Cuomo. 2020. "A Certain Type of Descriptive Representative? Understanding How the Skin Tone and Gender of Candidates Influences Black Politics." *The Journal of Politics* 82(4): 1596–1601. {{< fa brands dropbox >}}
 
-- Recorded lecture #4 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #4 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=EwAUSsQL4Yc) 
 
 
 
