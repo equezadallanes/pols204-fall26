@@ -29,7 +29,7 @@ title: "Week 4: How Experiments Work"
 
 - Kellstedt and Whitten, Chapter 4: section 4.1 and 4.2. {{< fa brands dropbox >}}
 
-- Recorded lecture #5 [{{< fa brands youtube >}}](https://youtu.be/99Nwqpt58fM) 
+- Recorded lecture #5 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=99Nwqpt58fM) 
 
 
 ### Friday, September 18
