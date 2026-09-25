@@ -17,7 +17,7 @@ title: "Week 6: Survey Sampling and Bivariate Analysis"
 
 - Cohn, Nate. 2019. "No One Picks Up the Phone, but Which Online Polls Are the Answer?" *The New York Times,* July 2. [{{< fa newspaper >}}](https://www.nytimes.com/2019/07/02/upshot/online-polls-analyzing-reliability.html)
 
-- Recorded lecture #6 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #6 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=ZPIxUg6X0aY)
 
 
 
