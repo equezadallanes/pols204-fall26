@@ -25,7 +25,7 @@ title: "Week 6: Survey Sampling and Bivariate Analysis"
 
 - *DASS.* Chapter 3: pp. 76-89. {{< fa book >}}
 
-- Recorded lecture #7 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #7 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=5kebNOK5BsQ)
 
 
 
