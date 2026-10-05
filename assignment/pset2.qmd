@@ -10,11 +10,6 @@ To be completed in class September 25. Submit on Canvas.
 Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
 
 
-### Files
-
-1. Problem Set - PDF
-2. RMardown file
-
 ## Purpose
 
 This second problem set will help you practice:

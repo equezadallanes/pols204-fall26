@@ -3,5 +3,31 @@ title: "Midterm Exam"
 ---
 
 
-Exam instructions will be provided on Canvas.
+The midterm exam will take place over two class periods:
+
+- Part I on Wednesday, October 7
+- Part II on Friday, October 9
+
+
+# Instructions
+
+For the midterm exam, you will be provided with an RMarkdown file and a datatset. These files will become available for download on Canvas during the corresponding class time. You must upload the "knitted" PDF to Canvas when you complete the exam.
+
+You are allowed to use resources like class notes, textbook, and internet forums. You are NOT allowed to use AI tools to complete the exam. During the class period, there will be a Canvas discussion board for the midterm exam where you and your classmates can ask each other for help (think of this as your own StackOverflow).
+
+
+# Topics
+
+1. Setting the working directory
+2. Loading data into R
+3. Viewing and understanding observations from the dataset
+4. Identifying the type of variables you are working with
+5. Conducting univariate analyses to understand the variables in the dataset
+6. Conducting bivariate analyses to understand the relationship between two variables
+7. Identifying treatment and outcome variables in a dataset
+8. Computing and interpreting the mean of a variable for different subsets of a sample
+9. Estimating and interpreting the average treatment effect for a randomized experiment
+
+
+
 

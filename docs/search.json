@@ -809,7 +809,7 @@
     "href": "assignment/midterm.html",
     "title": "Midterm Exam",
     "section": "",
-    "text": "Exam instructions will be provided on Canvas.",
+    "text": "The midterm exam will take place over two class periods:\n\nPart I on Wednesday, October 7\nPart II on Friday, October 9\n\n\nInstructions\nFor the midterm exam, you will be provided with an RMarkdown file and a datatset. These files will become available for download on Canvas during the corresponding class time. You must upload the “knitted” PDF to Canvas when you complete the exam.\nYou are allowed to use resources like class notes, textbook, and internet forums. You are NOT allowed to use AI tools to complete the exam. During the class period, there will be a Canvas discussion board for the midterm exam where you and your classmates can ask each other for help (think of this as your own StackOverflow).\n\n\nTopics\n\nSetting the working directory\nLoading data into R\nViewing and understanding observations from the dataset\nIdentifying the type of variables you are working with\nConducting univariate analyses to understand the variables in the dataset\nConducting bivariate analyses to understand the relationship between two variables\nIdentifying treatment and outcome variables in a dataset\nComputing and interpreting the mean of a variable for different subsets of a sample\nEstimating and interpreting the average treatment effect for a randomized experiment",
     "crumbs": [
       "Assignments",
       "Exams",
