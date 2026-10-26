@@ -23,7 +23,7 @@ title: "Week 10: Making Predictions with Linear Regression"
 
 - *DASS.* Chapter 4, sections 4.4-4.7. {{< fa book >}}
 
-- Recorded lecture #9 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #9 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=d57EC0XUURE)
 
 ### Friday, October 30
 
