@@ -17,7 +17,7 @@ title: "Week 11: Observational Studies"
 
 - *DASS.* Chapter 5, sections 5.1-5.4. {{< fa book >}}
 
-- Recorded lecture #10 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #10 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=iQSG1Fz4h5E)
 
 
 ### Wednesday, November 4
