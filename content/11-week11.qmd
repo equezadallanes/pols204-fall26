@@ -22,7 +22,7 @@ title: "Week 11: Observational Studies"
 
 ### Wednesday, November 4
 
-- Recorded lecture #11 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #11 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=gYDG__Tkr0A)
 
 
 ### Friday, November 6
