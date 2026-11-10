@@ -22,7 +22,7 @@ title: "Week 12: Validity and Probability"
 
 - *DASS.* Chapter 6, sections 6.1-6.4. {{< fa book >}}
 
-- Recorded lecture #13 {{< fa brands youtube >}} (link to be added)
+- Recorded lecture #13 [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=zdFuhRXrHvw)
 
 
 
